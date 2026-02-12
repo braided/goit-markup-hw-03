@@ -1,7 +1,39 @@
-* {
-  text-decoration: none;
-  list-style-type: none;
+
+h1{
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 56px;
+  letter-spacing: 0.02em;
+  line-height: 60px;
 }
+h2{
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  line-height: 44px;
+}
+h3{
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  line-height: 24px;
+}
+button{
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+}
+a{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.04em;
+  text-decoration: underline;}
 body {
   text-decoration: none;
   font-family: "Roboto", sans-serif;
@@ -41,6 +73,8 @@ a:focus {
   background-color: #2e2f42;
 }
 .footer-logo {
+  font-family: "Raleway", sans-serif;
+  text-transform: capitalize;
   color: #ffffff;
 }
 .footer-info {
@@ -61,5 +95,18 @@ a:focus {
 .sentance {
   font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 24;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+address {
+  font-style: normal;
+}
+.logo{
+  font-family: "Raleway", sans-serif;
+  text-transform: capitalize;
 }
