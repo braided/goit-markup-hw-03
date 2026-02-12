@@ -1,0 +1,68 @@
+*{
+    text-decoration: none;
+   list-style-type: none;
+} 
+body {
+   text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  color: #2E2F42;
+}
+a:hover,
+a:focus {
+  color: #404bbf;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
+}
+.hero-button {
+  cursor: pointer;
+}
+.team-member{
+  
+    background-color:#FFFFFF;
+}
+.logo-accent{
+    color:#4D5AE5;
+}
+.hero-button{
+    cursor: pointer;
+    background-color:#4D5AE5;
+    color: #FFFFFF;
+}
+.hero{
+
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+.team-section{
+    background-color: #F4F4FD;
+}
+.footer{
+    background-color: #2E2F42;
+}
+.footer-logo{
+    color:#FFFFFF;
+}
+.footer-info{
+    color:#FFFFFF;
+}
+.professions{
+    text-align: center;
+}
+.names{
+    text-align: center;
+}
+.section{
+    text-align: center;
+}
+.hero-title{
+    text-align: center;
+}
+.sentance{
+   font-style: normal;
+   font-weight: 400;
+line-height: 24px;
+ 
+}
