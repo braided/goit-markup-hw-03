@@ -102,17 +102,18 @@ address {
   background-color: #404bbf;
 }
 
-/* ===== Section Titles ===== */
+
 
 .section-title {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.22;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
 }
 
-/* ===== Features ===== */
+
+
 
 .feature-title {
   font-weight: 500;
@@ -128,7 +129,7 @@ address {
   color: #434455;
 }
 
-/* ===== Team ===== */
+
 
 .team-section {
   background-color: #f4f4fd;
