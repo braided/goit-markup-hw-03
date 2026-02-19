@@ -1,4 +1,4 @@
-/* ================= RESET ================= */
+
 
 body {
   font-family: "Roboto", sans-serif;
@@ -34,7 +34,7 @@ address {
   font-style: normal;
 }
 
-/* ================= COMMON ================= */
+
 
 .container {
   width: 1158px;
@@ -59,7 +59,7 @@ address {
   overflow: hidden;
 }
 
-/* ================= HEADER ================= */
+
 
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -133,7 +133,7 @@ address {
   color: #404bbf;
 }
 
-/* ================= HERO ================= */
+
 
 .hero {
   background-color: #2e2f42;
@@ -168,7 +168,6 @@ address {
   background-color: #404bbf;
 }
 
-/* ================= FEATURES ================= */
 
 .features-list {
   display: flex;
@@ -195,7 +194,7 @@ address {
   color: #434455;
 }
 
-/* ================= TEAM ================= */
+
 
 .team-section {
   background-color: #f4f4fd;
@@ -240,7 +239,7 @@ address {
   margin-bottom: 32px;
 }
 
-/* ================= PORTFOLIO ================= */
+
 
 .portfolio-list {
   display: flex;
@@ -274,7 +273,7 @@ address {
   color: #434455;
 }
 
-/* ================= FOOTER ================= */
+
 
 .footer {
   background-color: #2e2f42;
