@@ -220,7 +220,6 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
-  margin-top: 32px;
   margin-bottom: 8px;
   color: #2e2f42;
 }
@@ -231,7 +230,7 @@ address {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  margin-bottom: 32px;
+  margin: 0;
 }
 
 .portfolio-list {
