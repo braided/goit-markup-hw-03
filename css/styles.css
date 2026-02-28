@@ -209,7 +209,7 @@ address {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   border-radius: 0 0 4px 4px; 
-
+}
 .team-member-content {
   padding: 32px 16px; 
 }
